@@ -9,13 +9,16 @@ boby {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 .wrapper {
+ 
   background-color: black;
 }
 
 .Header {
-  background-color: black;
   width: 100%;
+  max-width: 960px;
   margin: 0 auto;
+  background-color: black;
+  
 }
 
 /* menu basee styles */
@@ -59,7 +62,7 @@ nav ul {
 
 .cover {
   
-  padding-left: 400px;
+  padding-left: 80px;
 
 }
 
