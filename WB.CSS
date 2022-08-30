@@ -23,6 +23,8 @@ boby {
 
 /* menu basee styles */
 
+
+
 nav {
   background: black;
 }
@@ -78,6 +80,11 @@ nav ul {
   padding: 20px;
 }
 
+a{
+  color: white;
+  text-decoration: none;
+}
+
 h1 {
   color: white;
 }
@@ -85,6 +92,13 @@ h1 {
 h1:hover {
   color: blue;
 }
+
+h2{
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
 p {
   color: white;
 }
